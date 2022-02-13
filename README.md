@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Daniel Santiago Sandoval Higuera 
-- 👀 I’m interested in working with React, django, python and in whathever is needed to learn
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in working starting my career at Data Science. 
+- 🌱 I’m currently learning Machine Learning and entrepreneurship
+- 🎫 Currently at Data Science Degree at Pontifical Xavierian University - Bogotá (Colombia)
 - 📫 You can reach me at dsandoval.ai@gmail.com
 
 <!---
