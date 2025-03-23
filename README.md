@@ -49,7 +49,7 @@ I’m passionate about leveraging technology and data to create impactful soluti
 
 ## 🤝 Let's Connect!
 
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-sandoval-ds/)  
 📫 **Email:** dsandoval.ai@gmail.com  
 🌐 **Portfolio:** `TODO`
   
