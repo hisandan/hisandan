@@ -2,11 +2,11 @@
 
 🚀 **Developer | Data Enthusiast | Lifelong Learner**
 
-I’m passionate about leveraging technology and data to create impactful solutions that improve people's lives. With a strong foundation in **software development, artificial intelligence, and data science**, I love working on projects that combine business, data, and technology. Let's collaborate and build something amazing together! 🌎💡
+I’m passionate about leveraging technology and data to create impactful solutions that improve people's lives. With a strong foundation in **software development, artificial intelligence, and data science**, I love working on projects that combine communities, data, and technology. Let's collaborate and build something amazing together! 🌎💡
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🔧 Tech Stack & Skills (Experimenting with)
 
 | **Category**            | **Technologies & Tools** |
 |------------------------|----------------------|
