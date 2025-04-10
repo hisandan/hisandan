@@ -31,6 +31,7 @@ I’m passionate about leveraging technology and data to create impactful soluti
 🎓 **B.S. Data Science** *(2022 - 2026)*
 - **Pontifical Javeriana University - Colombia**
 - Studied data methodologies, economics, statistics, and business management.
+- Did not finished (transferred to Western Governors University)
 
 📜 **Certifications:**
 - **Linux Essentials** (LPI) *(01/2025)* 🐧
